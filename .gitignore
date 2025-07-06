@@ -1,2 +1,21 @@
-.result.csv
-.log.txt
+# Composer
+/vendor/
+composer.lock
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Application files
+log.txt
+result.csv
+
+# Temporary files
+*.tmp
+*.temp

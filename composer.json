@@ -1,0 +1,22 @@
+{
+  "name": "neuffer/developers-test",
+  "description": "A refactored PHP console application for mathematical operations on CSV files",
+  "type": "project",
+  "require": {
+    "php": "^8.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "NeufferTest\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Emanuel Costa",
+      "email": "hello@emanuelcosta.dev"
+    }
+  ],
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "prefer-stable": true
+}
